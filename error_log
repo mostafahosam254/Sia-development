@@ -1,0 +1,28 @@
+[22-Aug-2024 09:58:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'siadevelopmentuser'@'localhost' (using password: YES) in /home/terautsq/public_html/projects/siadevelopment/dashboard/conn/conn.php:2
+Stack trace:
+#0 /home/terautsq/public_html/projects/siadevelopment/dashboard/conn/conn.php(2): mysqli_connect()
+#1 /home/terautsq/public_html/projects/siadevelopment/dashboard/conn/int.php(7): include('/home/terautsq/...')
+#2 /home/terautsq/public_html/projects/siadevelopment/index.php(3): include('/home/terautsq/...')
+#3 {main}
+  thrown in /home/terautsq/public_html/projects/siadevelopment/dashboard/conn/conn.php on line 2
+[22-Aug-2024 09:59:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'siadevelopmentuser'@'localhost' (using password: YES) in /home/terautsq/public_html/projects/siadevelopment/dashboard/conn/conn.php:2
+Stack trace:
+#0 /home/terautsq/public_html/projects/siadevelopment/dashboard/conn/conn.php(2): mysqli_connect()
+#1 /home/terautsq/public_html/projects/siadevelopment/dashboard/conn/int.php(7): include('/home/terautsq/...')
+#2 /home/terautsq/public_html/projects/siadevelopment/index.php(3): include('/home/terautsq/...')
+#3 {main}
+  thrown in /home/terautsq/public_html/projects/siadevelopment/dashboard/conn/conn.php on line 2
+[22-Aug-2024 09:59:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'siadevelopmentuser'@'localhost' (using password: YES) in /home/terautsq/public_html/projects/siadevelopment/dashboard/conn/conn.php:2
+Stack trace:
+#0 /home/terautsq/public_html/projects/siadevelopment/dashboard/conn/conn.php(2): mysqli_connect()
+#1 /home/terautsq/public_html/projects/siadevelopment/dashboard/conn/int.php(7): include('/home/terautsq/...')
+#2 /home/terautsq/public_html/projects/siadevelopment/index.php(3): include('/home/terautsq/...')
+#3 {main}
+  thrown in /home/terautsq/public_html/projects/siadevelopment/dashboard/conn/conn.php on line 2
+[22-Aug-2024 10:01:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'terautsq_siadevelopmentuser	'@'localhost' (using password: YES) in /home/terautsq/public_html/projects/siadevelopment/dashboard/conn/conn.php:21
+Stack trace:
+#0 /home/terautsq/public_html/projects/siadevelopment/dashboard/conn/conn.php(21): PDO->__construct()
+#1 /home/terautsq/public_html/projects/siadevelopment/dashboard/conn/int.php(7): include('/home/terautsq/...')
+#2 /home/terautsq/public_html/projects/siadevelopment/index.php(3): include('/home/terautsq/...')
+#3 {main}
+  thrown in /home/terautsq/public_html/projects/siadevelopment/dashboard/conn/conn.php on line 21

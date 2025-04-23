@@ -1,0 +1,5 @@
+[22-Aug-2024 10:06:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'description' in 'field list' in /home/terautsq/public_html/projects/siadevelopment/dashboard/add-team.php:202
+Stack trace:
+#0 /home/terautsq/public_html/projects/siadevelopment/dashboard/add-team.php(202): PDOStatement->execute()
+#1 {main}
+  thrown in /home/terautsq/public_html/projects/siadevelopment/dashboard/add-team.php on line 202
