@@ -57,9 +57,9 @@ This project is a custom web-based dashboard developed for **SIA Development** t
 
 ## 📩 Contact
 
-Developed by: [Your Name]  
-Email: [your.email@example.com]  
-GitHub: [github.com/your-username]
+Developed by: Mostafa Nassar  
+Email: mostafahosam254@gmail.com  
+LinkedIn: https://www.linkedin.com/in/mostafa-hosam-270894212/
 
 ---
 
